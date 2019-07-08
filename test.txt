@@ -1,1 +1,8 @@
-my name is adithya...
+#include<stdio.h>
+#include<iostream.h>
+.
+.
+.
+	//body
+.
+.
